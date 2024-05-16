@@ -1,8 +1,10 @@
-import ToDoList from "./ToDoList"
+
+import StopWatch from "./StopWatch"
+
 function App() {
   return(
     <>
-    <ToDoList></ToDoList>
+    <StopWatch></StopWatch>
     </>
   )
 
